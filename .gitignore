@@ -1,6 +1,7 @@
 __pycache__/
 .git/
 .venv/
+.oemer_venv/
 .vscode/
 
 build/
